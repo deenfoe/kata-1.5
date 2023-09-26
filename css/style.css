@@ -221,6 +221,9 @@ header {
 
 }
 
+.cat__wrapper {
+    background: #F8F8F8;
+}
 
 
 /* Стили для @media */
